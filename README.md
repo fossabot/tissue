@@ -3,6 +3,7 @@
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![License][ico-license]](LICENSE)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/fdc3c186-f787-4427-9c81-a3f82f3db720/mini.png)](https://insight.sensiolabs.com/projects/fdc3c186-f787-4427-9c81-a3f82f3db720)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbouiboui%2Ftissue.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbouiboui%2Ftissue?ref=badge_shield)
 
 Create Github issues from your ``catch {}`` blocks. I was heavily inspired by [ohCrash](https://ohcrash.com/).
 
@@ -108,3 +109,6 @@ This project uses the following open source projects
 [ico-license]: https://img.shields.io/badge/license-Unlicense-brightgreen.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/bouiboui/tissue
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbouiboui%2Ftissue.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbouiboui%2Ftissue?ref=badge_large)
